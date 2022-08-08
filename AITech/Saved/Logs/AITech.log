@@ -16086,3 +16086,408 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.08-11.33.41:627][668]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0E_Auto78F6B3F0D4FC5629B24F454BD438969FC.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E_Auto7.uasset'
 [2022.08.08-11.33.41:627][668]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.049
 [2022.08.08-11.33.41:627][668]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.08.08-11.35.27:379][987]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.35.27:494][987]LogBlueprint: Error: [AssetLog] A:\TechAI\AITanksTechTest\AITech\Content\AI\ThirdPersonAI.uasset: [Compiler] Could not find a function named "Random Roam AI" in 'ThirdPersonAI_C'.
+Make sure 'ThirdPersonAI_C' has been compiled for  Random Roam AI
+[2022.08.08-11.35.27:602][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.08.08-11.35.27:855][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.35.27:865][996]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.35.27:865][996]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI2D4B22C44B26BD434BDB55B1A6A8C6EB.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.35.27:879][996]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.35.27:879][996]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.35.33:073][613]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.35.33:188][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.08-11.35.33:640][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.35.33:651][646]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.35.33:651][646]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIA9126607448B7F5F350FBFAACE3E414A.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.35.33:665][646]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.35.33:665][646]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.35.41:502][523]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.35.41:619][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.08-11.35.42:073][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.35.42:083][551]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.35.42:083][551]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAID54748C04CCB35DDE8449DBA8229E14A.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.35.42:097][551]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.35.42:097][551]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.36.01:464][810]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.36.01:589][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.08.08-11.36.01:940][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.36.01:950][829]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.36.01:950][829]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI8106B1C94782194E026F61ABC6921C78.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.36.01:964][829]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.36.01:964][829]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.36.08:682][598]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.36.08:797][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.08.08-11.36.09:277][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.36.09:287][632]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.36.09:288][632]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIC8BC75264196086419005DB058CA57A5.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.36.09:303][632]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.36.09:303][632]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.36.12:158][970]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.36.12:274][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.08-11.36.12:725][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.36.12:736][  0]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.36.12:736][  0]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI9107CB0E435AF80B1F1543BB51F81DE6.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.36.12:749][  0]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.36.12:749][  0]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.36.13:661][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y
+[2022.08.08-11.36.13:661][ 59]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7YC6CA0E314D6046F7D85EDAAF240C2CE4.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y.uasset'
+[2022.08.08-11.36.13:663][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9
+[2022.08.08-11.36.13:663][ 59]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M979E6C25545F5B66A0AAE3B91DE4513BF.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9.uasset'
+[2022.08.08-11.36.13:664][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S
+[2022.08.08-11.36.13:664][ 59]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22S759198864680E8CDF68A2B9309F9C19B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S.uasset'
+[2022.08.08-11.36.13:665][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E
+[2022.08.08-11.36.13:666][ 59]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0E871335EA4D43637D3A04ED95BB365092.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E.uasset'
+[2022.08.08-11.36.13:680][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.08-11.36.13:680][ 59]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-11.36.13:680][ 59]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-11.36.13:680][ 59]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-11.36.13:681][ 59]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-11.36.13:839][ 78]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-11.36.13:843][ 78]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-11.36.13:843][ 78]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-11.36.13:843][ 78]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.36.13:843][ 78]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-11.36.13:843][ 78]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-11.36.13:843][ 78]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.08.08-11.36.13:844][ 78]LogWorldPartition: Display: GenerateStreaming took 452 us
+[2022.08.08-11.36.13:844][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-11.36.13:844][ 78]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 13:36:13)
+[2022.08.08-11.36.13:878][ 78]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.13:882][ 78]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.36.13:882][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004283s)
+[2022.08.08-11.36.13:882][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004345s)
+[2022.08.08-11.36.13:882][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.36.13:882][ 78]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.36.13:883][ 78]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.36.13:883][ 78]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.36.13:883][ 78]LogWorldPartition: Display: WorldPartition initialize took 844 us
+[2022.08.08-11.36.13:883][ 78]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2022.08.08-11.36.13:923][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.08-11.36.13:931][ 78]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-11.36.13:931][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-11.36.13:931][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-11.36.13:931][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-11.36.13:931][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-11.36.13:931][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-11.36.13:933][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-11.36.13:947][ 78]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-11.36.13:947][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-11.36.13:947][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-11.36.13:947][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-11.36.13:948][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.08.08-11.36.13:948][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.08.08-11.36.13:949][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.08.08-11.36.13:949][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.08.08-11.36.13:949][ 78]LogInit: FAudioDevice initialized.
+[2022.08.08-11.36.13:949][ 78]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2022.08.08-11.36.13:957][ 78]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.36.13:967][ 78]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.36.13
+[2022.08.08-11.36.13:968][ 78]LogWorld: Bringing up level for play took: 0.010661
+[2022.08.08-11.36.13:969][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2022.08.08-11.36.13:970][ 78]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.36.13:970][ 78]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.36.13:971][ 78]PIE: Server logged in
+[2022.08.08-11.36.13:971][ 78]PIE: Play in editor total start time 0.129 seconds.
+[2022.08.08-11.36.19:617][745]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.36.19:617][745]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.36.19:618][745]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.19:618][745]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.36.19:618][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.36.19:683][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-11.36.19:687][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.08-11.36.19:691][745]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.19:694][745]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.36.19:694][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003875s)
+[2022.08.08-11.36.19:695][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003930s)
+[2022.08.08-11.36.19:695][745]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonMap'.
+[2022.08.08-11.36.19:695][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.36.19:695][745]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.36.19:695][745]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.36.19:695][745]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.36.19:696][745]LogWorldPartition: Display: WorldPartition initialize took 830 us
+[2022.08.08-11.36.19:696][745]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2022.08.08-11.36.19:696][745]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.36.19:706][745]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.36.19
+[2022.08.08-11.36.19:706][745]LogWorld: Bringing up level for play took: 0.010268
+[2022.08.08-11.36.19:708][745]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.36.19:708][745]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.36.19:708][745]LogLoad: Took 0.090378 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2022.08.08-11.36.19:908][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-11.36.19:909][764]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.19:909][764]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.36.19:909][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.36.19:931][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-11.36.19:936][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.36.19:973][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-11.36.19:973][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.08.08-11.36.19:974][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.08.08-11.36.19:976][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-11.36.19:980][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.08-11.36.20:005][765]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.08.08-11.36.26:517][533]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.36.26:623][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.08-11.36.26:990][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.36.27:000][553]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.36.27:000][553]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI46AACF79409EFBA0211853BB9E16AC98.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.36.27:014][553]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.36.27:014][553]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.36.27:975][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y
+[2022.08.08-11.36.27:975][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7YBDF0BFCB4692F4FF038E5F8AE272238E.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y.uasset'
+[2022.08.08-11.36.27:976][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9
+[2022.08.08-11.36.27:977][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M97B192C8E450C358DE2D2D8815C13F254.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9.uasset'
+[2022.08.08-11.36.27:978][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S
+[2022.08.08-11.36.27:978][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22SC5FBAE1B497B4C4076DF0A9015757B7B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S.uasset'
+[2022.08.08-11.36.27:979][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E
+[2022.08.08-11.36.27:980][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0E946C06E24218BC9AE05E02823C35D999.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E.uasset'
+[2022.08.08-11.36.27:994][617]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.08-11.36.27:994][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-11.36.27:994][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-11.36.27:994][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-11.36.27:994][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-11.36.28:191][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-11.36.28:195][639]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-11.36.28:195][639]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-11.36.28:196][639]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.36.28:196][639]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-11.36.28:196][639]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-11.36.28:196][639]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2022.08.08-11.36.28:196][639]LogWorldPartition: Display: GenerateStreaming took 254 us
+[2022.08.08-11.36.28:196][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-11.36.28:196][639]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 13:36:28)
+[2022.08.08-11.36.28:196][639]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.28:200][639]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.36.28:200][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004401s)
+[2022.08.08-11.36.28:200][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004442s)
+[2022.08.08-11.36.28:201][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.36.28:201][639]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.36.28:201][639]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.36.28:201][639]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.36.28:202][639]LogWorldPartition: Display: WorldPartition initialize took 857 us
+[2022.08.08-11.36.28:202][639]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2022.08.08-11.36.28:240][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.08-11.36.28:245][639]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-11.36.28:245][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-11.36.28:245][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-11.36.28:245][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-11.36.28:245][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-11.36.28:245][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-11.36.28:247][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-11.36.28:261][639]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-11.36.28:261][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-11.36.28:261][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-11.36.28:261][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-11.36.28:262][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.08.08-11.36.28:262][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.08.08-11.36.28:262][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.08.08-11.36.28:262][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.08.08-11.36.28:262][639]LogInit: FAudioDevice initialized.
+[2022.08.08-11.36.28:262][639]LogAudio: Display: Audio Device (ID: 33) registered with world 'FirstPersonMap'.
+[2022.08.08-11.36.28:274][639]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.36.28:285][639]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.36.28
+[2022.08.08-11.36.28:285][639]LogWorld: Bringing up level for play took: 0.011109
+[2022.08.08-11.36.28:287][639]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2022.08.08-11.36.28:288][639]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.36.28:288][639]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.36.28:288][639]PIE: Server logged in
+[2022.08.08-11.36.28:289][639]PIE: Play in editor total start time 0.094 seconds.
+[2022.08.08-11.36.53:741][618]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.36.53:741][618]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.36.53:741][618]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.53:742][618]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.36.53:742][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.36.53:814][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-11.36.53:817][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.08-11.36.53:820][618]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.53:824][618]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.36.53:824][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003913s)
+[2022.08.08-11.36.53:824][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003976s)
+[2022.08.08-11.36.53:824][618]LogAudio: Display: Audio Device (ID: 33) registered with world 'FirstPersonMap'.
+[2022.08.08-11.36.53:825][618]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.36.53:825][618]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.36.53:825][618]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.36.53:825][618]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.36.53:826][618]LogWorldPartition: Display: WorldPartition initialize took 821 us
+[2022.08.08-11.36.53:826][618]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2022.08.08-11.36.53:826][618]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.36.53:836][618]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.36.53
+[2022.08.08-11.36.53:836][618]LogWorld: Bringing up level for play took: 0.010425
+[2022.08.08-11.36.53:838][618]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.36.53:838][618]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.36.53:838][618]LogLoad: Took 0.096719 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2022.08.08-11.36.53:888][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-11.36.53:888][619]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.36.53:888][619]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.36.53:889][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.36.53:917][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-11.36.53:922][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.36.53:957][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-11.36.53:957][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.08.08-11.36.53:958][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.08.08-11.36.53:964][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.08.08-11.36.53:991][620]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.08.08-11.37.01:498][505]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.37.01:605][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.08.08-11.37.02:006][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.37.02:016][527]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.37.02:016][527]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI9DC725C44B3BF141ABAC9B9D3DD01CA4.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.37.02:031][527]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.37.02:031][527]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.37.03:260][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y
+[2022.08.08-11.37.03:260][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7Y6E9DE8F549ECA8C0A45B64891130D1FF.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y.uasset'
+[2022.08.08-11.37.03:261][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E
+[2022.08.08-11.37.03:261][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0EF14D98C1497DD0DE15FDCDAAC82570A0.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E.uasset'
+[2022.08.08-11.37.03:262][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S
+[2022.08.08-11.37.03:263][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22SD8284E574FC9CFC4EFD6A198DDAD9A55.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S.uasset'
+[2022.08.08-11.37.03:264][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9
+[2022.08.08-11.37.03:264][617]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M93D897F284BE434E63AA71D9B1C26BE0E.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9.uasset'
+[2022.08.08-11.37.03:279][617]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.08-11.37.03:279][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-11.37.03:279][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-11.37.03:279][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-11.37.03:279][617]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-11.37.03:712][668]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Display: GetPartitionedActors took 44 us
+[2022.08.08-11.37.03:716][668]LogWorldPartition: Display: GenerateStreaming took 255 us
+[2022.08.08-11.37.03:716][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-11.37.03:716][668]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 13:37:03)
+[2022.08.08-11.37.03:748][668]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.37.03:752][668]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.37.03:752][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004160s)
+[2022.08.08-11.37.03:752][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004224s)
+[2022.08.08-11.37.03:752][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.37.03:752][668]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.37.03:753][668]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.37.03:753][668]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.37.03:754][668]LogWorldPartition: Display: WorldPartition initialize took 849 us
+[2022.08.08-11.37.03:754][668]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2022.08.08-11.37.03:791][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.08.08-11.37.03:797][668]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-11.37.03:797][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-11.37.03:797][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-11.37.03:797][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-11.37.03:797][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-11.37.03:797][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-11.37.03:799][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-11.37.03:813][668]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-11.37.03:814][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-11.37.03:814][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-11.37.03:814][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-11.37.03:814][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.08.08-11.37.03:814][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.08.08-11.37.03:815][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.08.08-11.37.03:815][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.08.08-11.37.03:815][668]LogInit: FAudioDevice initialized.
+[2022.08.08-11.37.03:815][668]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap'.
+[2022.08.08-11.37.03:827][668]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.37.03:837][668]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.37.03
+[2022.08.08-11.37.03:838][668]LogWorld: Bringing up level for play took: 0.010801
+[2022.08.08-11.37.03:839][668]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2022.08.08-11.37.03:840][668]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.37.03:840][668]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.37.03:841][668]PIE: Server logged in
+[2022.08.08-11.37.03:841][668]PIE: Play in editor total start time 0.126 seconds.
+[2022.08.08-11.37.12:626][701]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.37.12:626][701]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.37.12:626][701]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.37.12:627][701]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.37.12:627][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.37.12:681][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-11.37.12:685][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.08-11.37.12:688][701]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.37.12:692][701]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.37.12:692][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003939s)
+[2022.08.08-11.37.12:692][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003997s)
+[2022.08.08-11.37.12:692][701]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap'.
+[2022.08.08-11.37.12:692][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.37.12:692][701]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.37.12:692][701]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.37.12:692][701]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.37.12:693][701]LogWorldPartition: Display: WorldPartition initialize took 822 us
+[2022.08.08-11.37.12:693][701]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2022.08.08-11.37.12:693][701]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.37.12:703][701]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.37.12
+[2022.08.08-11.37.12:703][701]LogWorld: Bringing up level for play took: 0.009992
+[2022.08.08-11.37.12:705][701]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.37.12:705][701]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.37.12:705][701]LogLoad: Took 0.078871 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2022.08.08-11.37.18:322][368]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.37.18:322][368]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.08.08-11.37.18:322][368]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.37.18:323][368]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.37.18:323][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.37.18:394][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-11.37.18:397][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.08.08-11.37.18:400][368]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.37.18:404][368]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-11.37.18:404][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003925s)
+[2022.08.08-11.37.18:404][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003985s)
+[2022.08.08-11.37.18:404][368]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap'.
+[2022.08.08-11.37.18:404][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-11.37.18:405][368]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-11.37.18:405][368]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-11.37.18:405][368]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-11.37.18:406][368]LogWorldPartition: Display: WorldPartition initialize took 827 us
+[2022.08.08-11.37.18:406][368]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2022.08.08-11.37.18:406][368]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-11.37.18:415][368]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-12.37.18
+[2022.08.08-11.37.18:416][368]LogWorld: Bringing up level for play took: 0.010222
+[2022.08.08-11.37.18:417][368]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-11.37.18:417][368]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-11.37.18:417][368]LogLoad: Took 0.095292 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2022.08.08-11.37.19:258][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-11.37.19:258][465]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-11.37.19:258][465]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-11.37.19:259][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.37.19:280][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-11.37.19:285][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-11.37.19:320][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-11.37.19:320][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.08.08-11.37.19:321][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.08.08-11.37.19:327][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.08-11.37.19:352][466]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.08.08-11.37.26:360][287]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-11.37.26:467][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.08.08-11.37.26:740][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-11.37.26:750][297]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-11.37.26:750][297]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI53839792410D99E3A04EF5A9372C4992.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-11.37.26:764][297]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-11.37.26:764][297]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-11.37.28:090][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.08-11.37.29:829][442]LogSlate: Window 'Save Content' being destroyed
+[2022.08.08-11.37.30:024][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y
+[2022.08.08-11.37.30:024][442]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7YA2DF16C046DA3EF87C6B458BB768754B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y.uasset'
+[2022.08.08-11.37.30:025][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E
+[2022.08.08-11.37.30:026][442]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0E04145CF44E540B3818FC74B3A2B9826F.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E.uasset'
+[2022.08.08-11.37.30:027][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9
+[2022.08.08-11.37.30:027][442]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M9AFF27D4240CB8B407EA51B907165C5A8.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9.uasset'
+[2022.08.08-11.37.30:028][442]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S
+[2022.08.08-11.37.30:028][442]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22S6268CFB6432A6606A67D4ABAF0EF3D6C.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S.uasset'
+[2022.08.08-11.37.30:044][442]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.08-11.37.30:044][442]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-11.37.30:044][442]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-11.37.30:044][442]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-11.37.30:044][442]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
