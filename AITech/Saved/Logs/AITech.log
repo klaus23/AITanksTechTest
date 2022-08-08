@@ -13473,3 +13473,858 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.08-10.38.20:009][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
 [2022.08.08-10.39.36:311][ 95]LogSlate: Window 'Editor Preferences' being destroyed
 [2022.08.08-10.40.04:395][447]LogDerivedDataCache: C:/Users/mosne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.241 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.08-10.41.41:319][971]LogViewport: Scene viewport resized to 1141x915, mode Windowed.
+[2022.08.08-10.42.01:313][243]LogViewport: Scene viewport resized to 1141x917, mode Windowed.
+[2022.08.08-10.42.50:423][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.08.08-10.42.50:428][ 32]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.468
+[2022.08.08-10.42.50:429][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_BP] ([2] browsable assets)...
+[2022.08.08-10.42.50:440][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_BP.AI_BP]
+[2022.08.08-10.42.50:440][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_BP]
+[2022.08.08-10.42.50:440][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BP" FILE="../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/AI/AI_BP_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.08.08-10.42.50:448][ 32]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/AI_BP_Auto4
+[2022.08.08-10.42.50:448][ 32]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/AI_BP_Auto42C0F2F734BEE9F58ECE01CBA393A0D50.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/AI/AI_BP_Auto4.uasset'
+[2022.08.08-10.42.50:448][ 32]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.08.08-10.43.39:221][954]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.08-10.43.39:221][954]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.08.08-10.43.40:253][ 30]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2022.08.08-10.43.40:261][ 30]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2022.08.08-10.43.40:267][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2022.08.08-10.43.45:072][608]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> ThirdPersonAI
+[2022.08.08-10.43.45:183][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.08-10.43.45:332][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/ThirdPerson/Blueprints/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.43.45:340][608]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/ThirdPersonAI
+[2022.08.08-10.43.45:340][608]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI05F7AE534E74E45274E2138986FF4FEC.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/ThirdPerson/Blueprints/ThirdPersonAI.uasset'
+[2022.08.08-10.43.45:672][608]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2022.08.08-10.43.45:677][608]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.43.45:677][608]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.43.54:641][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:641][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.ThirdPersonAI_C' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:641][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:641][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_15' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:642][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:642][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:642][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_18' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:642][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:642][441]LogMetaData: Removing '/Game/AI/ThirdPersonAI.SKEL_ThirdPersonAI_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/ThirdPersonAI.PackageMetaData'
+[2022.08.08-10.43.54:729][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.43.54:737][441]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.43.54:737][441]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIF1A00A5C4F48EC70C51CC3B39F0A8D28.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.43.55:029][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.08-10.43.55:062][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.08-10.43.55:093][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.08.08-10.43.55:189][441]SourceControl: rm 'AITech/Content/ThirdPerson/Blueprints/ThirdPersonAI.uasset'
+[2022.08.08-10.43.55:206][441]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.43.55:206][441]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.43.59:126][872]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.43.59:686][923]Cmd: DELETE
+[2022.08.08-10.43.59:686][923]Cmd: ACTOR DELETE
+[2022.08.08-10.43.59:688][923]LogEditorActor: Deleted Actor: AI_BP_C
+[2022.08.08-10.43.59:722][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.08.08-10.43.59:724][923]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.08.08-10.44.00:255][973]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.44.00:530][  6]Cmd: DELETE
+[2022.08.08-10.44.00:530][  6]Cmd: ACTOR DELETE
+[2022.08.08-10.44.00:532][  6]LogEditorActor: Deleted Actor: AI_BP_C
+[2022.08.08-10.44.00:564][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.08-10.44.00:567][  6]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.08.08-10.44.01:918][156]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.44.01:969][162]Cmd: DELETE
+[2022.08.08-10.44.01:969][162]Cmd: ACTOR DELETE
+[2022.08.08-10.44.01:971][162]LogEditorActor: Deleted Actor: AI_BP_C
+[2022.08.08-10.44.02:002][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.08-10.44.02:006][162]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.08.08-10.44.03:370][316]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.44.03:471][328]Cmd: DELETE
+[2022.08.08-10.44.03:471][328]Cmd: ACTOR DELETE
+[2022.08.08-10.44.03:473][328]LogEditorActor: Deleted Actor: AI_BP_C
+[2022.08.08-10.44.03:505][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.08-10.44.03:508][328]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.08.08-10.44.04:246][406]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.44.04:246][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.44.18:970][ 84]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.44.19:032][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.08-10.44.19:413][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.44.19:419][110]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.44.19:419][110]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI8705825A46C2FF419C85A9A431C66505.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.44.19:431][110]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.44.19:431][110]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.44.20:295][213]LogViewport: Scene viewport resized to 1141x917, mode Windowed.
+[2022.08.08-10.44.26:192][907]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.44.26:192][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.44.28:789][207]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.08-10.44.28:789][207]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.44.28:789][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.44.41:766][707]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.44.41:819][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.08.08-10.44.42:130][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.44.42:136][727]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.44.42:136][727]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI80F73C784C0DEA88A1D9E7996C54D665.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.44.42:148][727]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.44.42:148][727]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.44.43:757][915]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.08-10.44.47:523][348]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.44.47:573][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.08.08-10.44.47:965][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.44.47:971][377]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.44.47:971][377]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI0C98D60842D8C2B8FBE59BBB43C4FF47.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.44.47:983][377]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.44.47:983][377]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.45.11:820][153]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.45.11:874][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.08-10.45.12:365][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.45.12:373][192]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.45.12:373][192]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI05F95E224A47EC954DB458B30D7E8C23.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.45.12:385][192]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.45.12:385][192]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.45.33:517][659]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.45.33:571][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.08.08-10.45.34:049][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.45.34:057][697]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.45.34:058][697]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI67A9A0B143A02E102A7157A46ACF6E16.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.45.34:070][697]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.45.34:070][697]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.45.41:416][564]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.45.41:474][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.08.08-10.45.42:015][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.45.42:023][609]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.45.42:024][609]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIAC0FC26149BA49E4CC3CF9BA5A3E081F.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.45.42:039][609]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.45.42:039][609]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.45.54:058][ 42]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.45.54:111][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.08.08-10.45.54:496][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.45.54:504][ 68]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.45.54:505][ 68]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIDB6B7D7F41ABEA6527B836BC4A6E9F6B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.45.54:518][ 68]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.45.54:518][ 68]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.45.57:546][427]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.45.57:599][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.08.08-10.45.57:883][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.45.57:891][442]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.45.57:891][442]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIF62987C5430ED10A1A42AC99765537C3.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.45.57:904][442]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.45.57:904][442]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.45.59:451][625]BlueprintLog: New page: Compile AI_BP
+[2022.08.08-10.45.59:502][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.08.08-10.45.59:950][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_BP" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/AI_BP.uasset" SILENT=true
+[2022.08.08-10.45.59:957][659]LogSavePackage: Moving output files for package: /Game/AI/AI_BP
+[2022.08.08-10.45.59:957][659]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/AI_BPD98D163349F297C6AFEAE3A209739A93.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/AI_BP.uasset'
+[2022.08.08-10.45.59:970][659]AssetCheck: New page: Asset Save: AI_BP
+[2022.08.08-10.45.59:970][659]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_BP.AI_BP
+[2022.08.08-10.46.03:667][ 77]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.03:667][ 77]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.03:670][ 77]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_0
+[2022.08.08-10.46.03:671][ 77]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_0
+[2022.08.08-10.46.03:925][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.03:925][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.03:929][103]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-10.46.03:930][103]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-10.46.03:986][103]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.46.05:234][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.05:234][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.05:237][233]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_1
+[2022.08.08-10.46.05:238][233]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_1
+[2022.08.08-10.46.05:580][268]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.05:580][268]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.05:583][268]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-10.46.05:584][268]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-10.46.05:639][268]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.46.06:177][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.06:177][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.06:179][310]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_2
+[2022.08.08-10.46.06:180][310]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_2
+[2022.08.08-10.46.06:570][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.06:570][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.46.06:573][349]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-10.46.06:575][349]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-10.46.06:629][349]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.46.07:707][469]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Display: GetPartitionedActors took 38 us
+[2022.08.08-10.46.07:711][469]LogWorldPartition: Display: GenerateStreaming took 283 us
+[2022.08.08-10.46.07:718][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.46.07:718][469]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 12:46:07)
+[2022.08.08-10.46.07:719][469]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.46.07:723][469]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-10.46.07:723][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004849s)
+[2022.08.08-10.46.07:723][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004897s)
+[2022.08.08-10.46.07:724][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.07:724][469]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-10.46.07:724][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-10.46.07:724][469]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-10.46.07:725][469]LogWorldPartition: Display: WorldPartition initialize took 938 us
+[2022.08.08-10.46.07:725][469]LogPlayLevel: PIE: World Init took: (0.001664s)
+[2022.08.08-10.46.07:752][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.08.08-10.46.07:760][469]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-10.46.07:760][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-10.46.07:760][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-10.46.07:760][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-10.46.07:760][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-10.46.07:760][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-10.46.07:762][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-10.46.07:777][469]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-10.46.07:778][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-10.46.07:778][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-10.46.07:778][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-10.46.07:778][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.08.08-10.46.07:778][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.08.08-10.46.07:779][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.08.08-10.46.07:779][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.08.08-10.46.07:779][469]LogInit: FAudioDevice initialized.
+[2022.08.08-10.46.07:779][469]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2022.08.08-10.46.07:785][469]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-10.46.07:790][469]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-11.46.07
+[2022.08.08-10.46.07:791][469]LogWorld: Bringing up level for play took: 0.005093
+[2022.08.08-10.46.07:792][469]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.08.08-10.46.07:793][469]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-10.46.07:793][469]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.46.07:793][469]PIE: Server logged in
+[2022.08.08-10.46.07:794][469]PIE: Play in editor total start time 0.084 seconds.
+[2022.08.08-10.46.12:943][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.46.12:943][ 64]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.46.12:943][ 64]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.46.12:944][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.46.12:956][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-10.46.12:959][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.46.12:988][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-10.46.12:988][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.08-10.46.12:990][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.08.08-10.46.12:992][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.46.12:995][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.08.08-10.46.13:175][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.08.08-10.46.13:197][ 65]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.46.16:057][387]LogViewport: Scene viewport resized to 1141x915, mode Windowed.
+[2022.08.08-10.46.18:045][603]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.46.21:789][ 40]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.08-10.46.28:507][754]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2022.08.08-10.46.28:851][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.28:857][754]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.46.29:114][754]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.08.08-10.46.32:472][ 97]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2022.08.08-10.46.32:474][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.32:479][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.46.32:584][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.32:695][ 97]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2022.08.08-10.46.32:714][ 97]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-10.46.39:718][922]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2022.08.08-10.46.39:718][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.39:731][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.39:737][922]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.46.40:103][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.46.40:184][922]LogViewport: Scene viewport resized to 476x433, mode Windowed.
+[2022.08.08-10.46.54:961][516]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2022.08.08-10.46.54:961][516]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2022.08.08-10.46.54:961][516]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2022.08.08-10.46.54:980][516]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.08.08-10.46.55:969][516]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2022.08.08-10.46.58:857][516]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2022.08.08-10.47.02:252][516]LogSkeletalMesh: Built Skeletal Mesh [7.32s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.08.08-10.47.02:679][517]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2022.08.08-10.47.02:679][517]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2022.08.08-10.47.02:691][518]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2022.08.08-10.47.02:691][518]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2022.08.08-10.47.02:698][519]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2022.08.08-10.47.02:698][519]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2022.08.08-10.47.02:709][520]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2022.08.08-10.47.02:709][520]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2022.08.08-10.47.02:717][521]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2022.08.08-10.47.02:717][521]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2022.08.08-10.47.02:726][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2022.08.08-10.47.02:726][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2022.08.08-10.47.10:065][355]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.08-10.47.16:041][988]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.47.16:510][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.08-10.47.17:010][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.47.17:018][ 24]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.47.17:019][ 24]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIA662F60240B0485536AB7FA8C3EF4635.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.47.17:031][ 24]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.47.17:031][ 24]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.47.17:481][ 76]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.47.18:875][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.08.08-10.47.18:910][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.08.08-10.47.18:940][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.08.08-10.47.19:170][134]SourceControl: Error: Updated 0 paths from the index
+[2022.08.08-10.47.19:364][134]SourceControl: rm 'AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QL/WOD6RDXMI61GA7ROUJ2DHS.uasset'
+[2022.08.08-10.47.19:364][134]SourceControl: rm 'AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UH/FHGXJ7G1PK4JBLLEHZ57NO.uasset'
+[2022.08.08-10.47.19:364][134]SourceControl: rm 'AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/L8/K88L3EKKDJ909IJRISPELZ.uasset'
+[2022.08.08-10.47.19:364][134]SourceControl: rm 'AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Q5/623D8CPXO4CHA8N71QZHE5.uasset'
+[2022.08.08-10.47.19:367][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9
+[2022.08.08-10.47.19:367][134]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M978F3377741C6E6D2FA7814A099030ECC.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9.uasset'
+[2022.08.08-10.47.19:368][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y
+[2022.08.08-10.47.19:368][134]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7YB81C478145C596D5EB45A797DC5B8AA1.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y.uasset'
+[2022.08.08-10.47.19:369][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E
+[2022.08.08-10.47.19:369][134]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0EFD7E7D3940747C59C509129CDC1BEB65.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E.uasset'
+[2022.08.08-10.47.19:556][134]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.08-10.47.19:556][134]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-10.47.19:556][134]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-10.47.19:556][134]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-10.47.20:214][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.08.08-10.47.20:218][210]LogWorldPartition: Display: GenerateStreaming took 252 us
+[2022.08.08-10.47.20:218][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.47.20:218][210]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 12:47:20)
+[2022.08.08-10.47.20:242][210]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.47.20:247][210]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-10.47.20:247][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004286s)
+[2022.08.08-10.47.20:247][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004344s)
+[2022.08.08-10.47.20:247][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.47.20:247][210]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-10.47.20:247][210]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-10.47.20:247][210]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-10.47.20:248][210]LogWorldPartition: Display: WorldPartition initialize took 912 us
+[2022.08.08-10.47.20:248][210]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2022.08.08-10.47.20:278][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.08.08-10.47.20:280][210]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-10.47.20:280][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-10.47.20:280][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-10.47.20:280][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-10.47.20:280][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-10.47.20:280][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-10.47.20:281][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-10.47.20:296][210]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-10.47.20:296][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-10.47.20:296][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-10.47.20:296][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-10.47.20:297][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.08.08-10.47.20:297][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.08.08-10.47.20:298][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.08.08-10.47.20:298][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.08.08-10.47.20:298][210]LogInit: FAudioDevice initialized.
+[2022.08.08-10.47.20:298][210]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2022.08.08-10.47.20:304][210]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-10.47.20:312][210]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-11.47.20
+[2022.08.08-10.47.20:313][210]LogWorld: Bringing up level for play took: 0.008416
+[2022.08.08-10.47.20:314][210]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.08.08-10.47.20:315][210]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-10.47.20:315][210]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.47.20:315][210]PIE: Server logged in
+[2022.08.08-10.47.20:316][210]PIE: Play in editor total start time 0.098 seconds.
+[2022.08.08-10.47.23:883][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.47.23:883][617]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.47.23:883][617]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.47.23:883][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.47.23:895][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-10.47.23:899][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.47.23:930][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.47.23:930][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.08-10.47.23:932][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.08.08-10.47.23:937][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.08.08-10.47.24:059][618]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.08.08-10.47.24:085][618]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.47.27:884][ 36]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.47.27:884][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.47.58:591][588]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-10.48.05:039][293]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.48.05:039][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.48.05:421][293]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.48.05:421][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.48.35:510][789]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.48.40:826][399]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.48.40:826][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.48.40:830][399]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.48.40:830][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.48.41:004][399]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.48.41:004][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.48.42:349][554]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.48.48:291][243]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2022.08.08-10.48.48:292][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.48:309][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.48:314][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.48.48:681][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.48:745][243]LogViewport: Scene viewport resized to 476x433, mode Windowed.
+[2022.08.08-10.48.51:769][589]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2022.08.08-10.48.51:769][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.51:781][589]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.48.52:223][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.52:296][589]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.08.08-10.48.54:284][824]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2022.08.08-10.48.54:285][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.54:295][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.48.54:503][824]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.08.08-10.48.57:095][131]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2022.08.08-10.48.57:096][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.57:101][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.08-10.48.57:201][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.48.57:288][131]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2022.08.08-10.48.57:301][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.08-10.49.00:712][508]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.00:712][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.00:876][508]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.00:876][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.01:039][525]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.01:039][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.01:638][587]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.01:638][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.01:678][587]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.01:678][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.02:434][671]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.02:435][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.02:440][671]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.02:440][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.02:501][671]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.49.02:501][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.49.26:278][995]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AF206D3E689A736400FCB435194D909B44FAA89), compiling. 
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: ================================================
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Total job queries 145, among them cache hits 13 (8.97%)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Tracking 129 distinct input hashes that result in 79 distinct outputs (61.24%)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: RAM used: 0.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Shaders Compiled: 131
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Jobs assigned 132, completed 129 (97.73%)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Average time worker was idle: 239.27 s
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Time job spent in pending queue: average 3.69 s, longest 11.71 s
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Job execution time: average 5.01 s, max 8.04 s
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Job life time (pending + execution): average 8.79 s, max 12.62
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.02 s
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 3.47 jobs/batch
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Average processing rate: 9.91 jobs/sec
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Effective parallelization: 5.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.88 sec, max 0.92 sec, min 0.80 sec)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    4 times, average 0.84 sec, max 0.92 sec, min 0.79 sec)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    4 times, average 0.83 sec, max 0.88 sec, min 0.79 sec)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.82 sec, max 0.85 sec, min 0.79 sec)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.81 sec, max 0.90 sec, min 0.76 sec)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.64% of total time (compiled    4 times, average 0.88 sec, max 0.92 sec, min 0.80 sec)
+[2022.08.08-10.49.26:648][ 19]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.45% of total time (compiled    4 times, average 0.84 sec, max 0.92 sec, min 0.79 sec)
+[2022.08.08-10.49.26:649][ 19]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect - 4.37% of total time (compiled    4 times, average 0.83 sec, max 0.88 sec, min 0.79 sec)
+[2022.08.08-10.49.26:649][ 19]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.35% of total time (compiled    4 times, average 0.82 sec, max 0.85 sec, min 0.79 sec)
+[2022.08.08-10.49.26:649][ 19]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.29% of total time (compiled    4 times, average 0.81 sec, max 0.90 sec, min 0.76 sec)
+[2022.08.08-10.49.26:649][ 19]LogShaderCompilers: Display: ================================================
+[2022.08.08-10.49.27:091][ 58]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 009AC288C95399514D5F9AD86E12C1DCE6CBF560), compiling. 
+[2022.08.08-10.49.27:822][116]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 22E76115EC62E89268625537763B962B3451BF25), compiling. 
+[2022.08.08-10.49.28:440][165]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.49.28:440][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.49.28:822][166]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E7BC359BAEB66D3871BD4594AE6C689E6BE980E4), compiling. 
+[2022.08.08-10.49.29:533][236]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7003888866E0A2A59FAEF48DAFA18219AEB7DCFF), compiling. 
+[2022.08.08-10.49.30:697][348]LogViewport: Scene viewport resized to 1141x917, mode Windowed.
+[2022.08.08-10.49.52:936][707]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.49.53:134][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.08.08-10.49.53:567][739]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.49.53:567][739]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter3B085F844F0429D411F0FEBB721B917F.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.49.53:580][739]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.49.53:580][739]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.50.33:925][759]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.50.33:927][759]LogBlueprint: Error: [AssetLog] A:\TechAI\AITanksTechTest\AITech\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Message node  Toggle Movement  must have a valid target or reference to self.
+[2022.08.08-10.50.33:927][759]LogBlueprint: Error: [AssetLog] A:\TechAI\AITanksTechTest\AITech\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Message node  Toggle Movement  must have a valid target or reference to self.
+[2022.08.08-10.50.33:979][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.08.08-10.50.34:791][834]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.50.34:791][834]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter0B588807431D08F36327C88F80F9386A.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.50.34:804][834]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.50.34:805][834]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.50.38:939][199]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.50.38:989][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.08.08-10.50.39:477][238]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.50.39:477][238]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter18DC921647C8F43BB59B5593CFC28B20.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.50.39:492][238]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.50.39:492][238]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.50.57:141][691]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.50.57:193][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.08.08-10.50.57:557][715]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.50.57:558][715]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacterDB51681945C16EB0C79D6FBE6CBDCBB1.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.50.57:571][715]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.50.57:571][715]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.51.44:734][803]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.51.44:786][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.08-10.51.45:296][844]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.51.45:296][844]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter135B29F947D6F006D1CAEDBD451F347B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.51.45:309][844]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.51.45:309][844]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.51.50:379][417]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.51.50:429][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.08.08-10.51.51:292][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.51.51:292][496]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter8D70239A4D0DB37038DC82A51798774C.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.51.51:304][496]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.51.51:304][496]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.52.28:733][880]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.52.28:786][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.08.08-10.52.29:210][908]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.52.29:210][908]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter182E0CCC41FAD3FDE6212F8BF374FA72.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.52.29:223][908]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.52.29:223][908]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.52.47:463][ 12]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.52.47:514][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.08.08-10.52.47:877][ 37]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.52.47:877][ 37]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacterDF456D4F49568725539A63A0C3579E04.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.52.47:889][ 37]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.52.47:889][ 37]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.53.00:771][911]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.53.00:826][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.08.08-10.53.01:295][945]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.53.01:295][945]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacterB99F058C47E7B0E69234B0A307796D5B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.53.01:309][945]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.53.01:309][945]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.53.17:421][191]LogViewport: Scene viewport resized to 1141x725, mode Windowed.
+[2022.08.08-10.53.57:411][855]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.53.57:464][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.08.08-10.53.57:893][884]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.53.57:893][884]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter3B61D7A847B61CA34C6367A831B50885.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.53.57:906][884]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.53.57:906][884]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.54.21:122][828]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.54.21:122][828]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.54.21:127][828]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_3
+[2022.08.08-10.54.21:129][828]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_3
+[2022.08.08-10.54.21:612][878]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.54.21:612][878]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/AI/ThirdPersonAI.ThirdPersonAI_C
+[2022.08.08-10.54.21:619][878]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-10.54.21:622][878]LogActorFactory: Actor Factory spawned Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI as actor: ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-10.54.21:682][878]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.54.22:917][ 19]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Display: GetPartitionedActors took 36 us
+[2022.08.08-10.54.22:921][ 19]LogWorldPartition: Display: GenerateStreaming took 343 us
+[2022.08.08-10.54.22:921][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.54.22:922][ 19]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 12:54:22)
+[2022.08.08-10.54.22:942][ 19]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.54.22:947][ 19]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-10.54.22:947][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004684s)
+[2022.08.08-10.54.22:947][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004750s)
+[2022.08.08-10.54.22:947][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.54.22:947][ 19]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-10.54.22:947][ 19]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-10.54.22:947][ 19]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-10.54.22:948][ 19]LogWorldPartition: Display: WorldPartition initialize took 982 us
+[2022.08.08-10.54.22:948][ 19]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2022.08.08-10.54.22:979][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.08-10.54.22:987][ 19]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-10.54.22:987][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-10.54.22:987][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-10.54.22:988][ 19]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-10.54.22:988][ 19]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-10.54.22:988][ 19]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-10.54.22:989][ 19]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-10.54.23:004][ 19]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-10.54.23:004][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-10.54.23:004][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-10.54.23:004][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-10.54.23:005][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.08.08-10.54.23:005][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.08.08-10.54.23:005][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.08.08-10.54.23:005][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.08.08-10.54.23:005][ 19]LogInit: FAudioDevice initialized.
+[2022.08.08-10.54.23:005][ 19]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2022.08.08-10.54.23:016][ 19]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-10.54.23:027][ 19]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-11.54.23
+[2022.08.08-10.54.23:028][ 19]LogWorld: Bringing up level for play took: 0.010935
+[2022.08.08-10.54.23:029][ 19]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2022.08.08-10.54.23:030][ 19]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-10.54.23:030][ 19]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.54.23:316][ 19]PIE: Server logged in
+[2022.08.08-10.54.23:317][ 19]PIE: Play in editor total start time 0.397 seconds.
+[2022.08.08-10.54.29:492][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.54.29:492][696]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.54.29:492][696]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.54.29:493][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.54.29:502][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-10.54.29:506][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.54.29:536][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-10.54.29:537][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.08-10.54.29:538][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.08.08-10.54.29:540][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.54.29:544][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.08.08-10.54.29:609][697]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.08.08-10.54.29:632][697]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.54.32:932][ 71]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.54.55:452][871]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.08.08-10.54.55:507][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.08.08-10.54.55:929][901]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.08.08-10.54.55:929][901]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/BP_FirstPersonCharacter1FD755C645531E9C691640967F9D7450.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.08.08-10.54.55:941][901]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.08.08-10.54.55:941][901]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.08.08-10.54.56:655][958]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S
+[2022.08.08-10.54.56:655][958]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22S2058C3454E030ECC7888198009AA0DAB.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S.uasset'
+[2022.08.08-10.54.56:780][958]AssetCheck: New page: Asset Save: ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-10.54.56:780][958]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-10.54.57:466][ 33]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.08.08-10.54.57:471][ 33]LogWorldPartition: Display: GenerateStreaming took 372 us
+[2022.08.08-10.54.57:472][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.54.57:472][ 33]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 12:54:57)
+[2022.08.08-10.54.57:502][ 33]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.54.57:507][ 33]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-10.54.57:507][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004630s)
+[2022.08.08-10.54.57:507][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004692s)
+[2022.08.08-10.54.57:507][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.54.57:507][ 33]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-10.54.57:507][ 33]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-10.54.57:507][ 33]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-10.54.57:508][ 33]LogWorldPartition: Display: WorldPartition initialize took 977 us
+[2022.08.08-10.54.57:508][ 33]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2022.08.08-10.54.57:540][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.08.08-10.54.57:544][ 33]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-10.54.57:544][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-10.54.57:544][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-10.54.57:544][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-10.54.57:544][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-10.54.57:544][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-10.54.57:546][ 33]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-10.54.57:560][ 33]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-10.54.57:560][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-10.54.57:560][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-10.54.57:560][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-10.54.57:561][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.08.08-10.54.57:561][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.08.08-10.54.57:562][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.08.08-10.54.57:562][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.08.08-10.54.57:562][ 33]LogInit: FAudioDevice initialized.
+[2022.08.08-10.54.57:562][ 33]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2022.08.08-10.54.57:568][ 33]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-10.54.57:578][ 33]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-11.54.57
+[2022.08.08-10.54.57:579][ 33]LogWorld: Bringing up level for play took: 0.010820
+[2022.08.08-10.54.57:580][ 33]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2022.08.08-10.54.57:581][ 33]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-10.54.57:581][ 33]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.54.57:581][ 33]PIE: Server logged in
+[2022.08.08-10.54.57:582][ 33]PIE: Play in editor total start time 0.112 seconds.
+[2022.08.08-10.55.11:892][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.55.11:892][738]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.55.11:892][738]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.55.11:892][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.55.11:902][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-10.55.11:906][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.55.11:938][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-10.55.11:938][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.08-10.55.11:939][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.08.08-10.55.11:942][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.55.11:945][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.08.08-10.55.12:013][739]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.08.08-10.55.12:037][739]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.55.15:094][ 79]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.55.20:773][747]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.55.20:907][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.08.08-10.55.21:419][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.55.21:428][779]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.55.21:428][779]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI9CF2A183434D8FBE51DD79B2D5D1E3F6.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.55.21:442][779]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.55.21:442][779]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.55.24:349][124]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.55.25:132][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S
+[2022.08.08-10.55.25:132][169]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22S5E6146B84EB1720B6E12189BBFEB49A9.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S.uasset'
+[2022.08.08-10.55.25:134][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y
+[2022.08.08-10.55.25:134][169]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7YA9AB1BA74018AD5C75EF2AAA34A5E82F.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y.uasset'
+[2022.08.08-10.55.25:136][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9
+[2022.08.08-10.55.25:136][169]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M9DCBCD0FE420C335A1211CC812303744C.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9.uasset'
+[2022.08.08-10.55.25:137][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E
+[2022.08.08-10.55.25:137][169]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0E4AF5D8A148618ABE54913FACD995C99E.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E.uasset'
+[2022.08.08-10.55.25:151][169]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.08-10.55.25:151][169]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1518128663
+[2022.08.08-10.55.25:151][169]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1515483661
+[2022.08.08-10.55.25:151][169]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_1517138662
+[2022.08.08-10.55.25:151][169]LogContentValidation: Display: Validating ThirdPersonAI_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ThirdPersonAI_C_UAID_001A7DDA7113C22A01_2013170664
+[2022.08.08-10.55.25:394][195]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Display: GetPartitionedActors took 37 us
+[2022.08.08-10.55.25:398][195]LogWorldPartition: Display: GenerateStreaming took 265 us
+[2022.08.08-10.55.25:398][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.55.25:398][195]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 12:55:25)
+[2022.08.08-10.55.25:431][195]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.55.25:436][195]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-10.55.25:436][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004624s)
+[2022.08.08-10.55.25:436][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004692s)
+[2022.08.08-10.55.25:436][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.55.25:436][195]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-10.55.25:437][195]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-10.55.25:437][195]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-10.55.25:438][195]LogWorldPartition: Display: WorldPartition initialize took 959 us
+[2022.08.08-10.55.25:438][195]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2022.08.08-10.55.25:470][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.08.08-10.55.25:479][195]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-10.55.25:479][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-10.55.25:479][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-10.55.25:479][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-10.55.25:479][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-10.55.25:479][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-10.55.25:480][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-10.55.25:495][195]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-10.55.25:495][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-10.55.25:495][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-10.55.25:495][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-10.55.25:496][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.08.08-10.55.25:496][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.08.08-10.55.25:496][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.08.08-10.55.25:496][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.08.08-10.55.25:496][195]LogInit: FAudioDevice initialized.
+[2022.08.08-10.55.25:496][195]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2022.08.08-10.55.25:503][195]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-10.55.25:514][195]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-11.55.25
+[2022.08.08-10.55.25:515][195]LogWorld: Bringing up level for play took: 0.011062
+[2022.08.08-10.55.25:516][195]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2022.08.08-10.55.25:517][195]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-10.55.25:517][195]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.55.25:517][195]PIE: Server logged in
+[2022.08.08-10.55.25:518][195]PIE: Play in editor total start time 0.121 seconds.
+[2022.08.08-10.55.33:052][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.55.33:052][ 88]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.55.33:052][ 88]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.55.33:053][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.55.33:066][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-10.55.33:070][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.55.33:101][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-10.55.33:101][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.08.08-10.55.33:102][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.08.08-10.55.33:104][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.55.33:107][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.08.08-10.55.33:176][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.08.08-10.55.33:219][ 89]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.55.54:464][762]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.55.54:589][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.08.08-10.55.54:832][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.55.54:840][767]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.55.54:840][767]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIF63C46B748E0F6370C6D8CBA271AE11A.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.55.54:853][767]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.55.54:853][767]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.56.02:927][690]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.56.03:060][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.08.08-10.56.03:401][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.56.03:409][705]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.56.03:410][705]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI4A426E3D4A43A43E790B1D89C5A9F02B.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.56.03:433][705]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.56.03:434][705]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.56.14:200][994]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.56.14:332][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.08.08-10.56.14:867][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.56.14:875][ 31]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.56.14:875][ 31]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAI4235529D4261D8FB9B28ED9F5A45B287.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.56.14:888][ 31]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.56.14:888][ 31]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.56.42:412][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.08-10.56.42:424][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S_Auto5
+[2022.08.08-10.56.42:424][892]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/LOWOWPE64QU78YO7SXX22S_Auto578E7A564426BE96A95857DBBAE810F46.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TS/LOWOWPE64QU78YO7SXX22S_Auto5.uasset'
+[2022.08.08-10.56.42:425][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E_Auto5
+[2022.08.08-10.56.42:425][892]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/JMB4BZOZ7KCQNCVZKWDV0E_Auto574ACB621494CF70C8F7DEAA5AAA3CE6F.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/F4/JMB4BZOZ7KCQNCVZKWDV0E_Auto5.uasset'
+[2022.08.08-10.56.42:427][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y_Auto5
+[2022.08.08-10.56.42:427][892]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/0QUVIVKT5GBSV1O3Q61K7Y_Auto56E66D7024FD0CF140B92ABBC042BC926.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1V/0QUVIVKT5GBSV1O3Q61K7Y_Auto5.uasset'
+[2022.08.08-10.56.42:428][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9_Auto5
+[2022.08.08-10.56.42:428][892]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/1V1FP0PCISCGI2HCODZ8M9_Auto514B0D4E14484D7590DE717950F0C934F.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/L6/1V1FP0PCISCGI2HCODZ8M9_Auto5.uasset'
+[2022.08.08-10.56.42:428][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.050
+[2022.08.08-10.56.42:428][892]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2022.08.08-10.57.12:443][255]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.57.12:595][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.08.08-10.57.12:831][269]BlueprintLog: New page: Compile ThirdPersonAI
+[2022.08.08-10.57.12:965][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.08.08-10.57.13:249][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ThirdPersonAI" FILE="../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset" SILENT=true
+[2022.08.08-10.57.13:257][277]LogSavePackage: Moving output files for package: /Game/AI/ThirdPersonAI
+[2022.08.08-10.57.13:257][277]LogSavePackage: Moving '../../../../../TechAI/AITanksTechTest/AITech/Saved/ThirdPersonAIE1412015499A2623E6775BB09C0D6D67.tmp' to '../../../../../TechAI/AITanksTechTest/AITech/Content/AI/ThirdPersonAI.uasset'
+[2022.08.08-10.57.13:269][277]AssetCheck: New page: Asset Save: ThirdPersonAI
+[2022.08.08-10.57.13:269][277]LogContentValidation: Display: Validating Blueprint /Game/AI/ThirdPersonAI.ThirdPersonAI
+[2022.08.08-10.57.13:781][335]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.08-10.57.14:958][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.08-10.57.14:962][453]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.08-10.57.14:962][453]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.08-10.57.14:962][453]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.57.14:962][453]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.08-10.57.14:962][453]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.08-10.57.14:962][453]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2022.08.08-10.57.14:963][453]LogWorldPartition: Display: GenerateStreaming took 394 us
+[2022.08.08-10.57.14:963][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.08-10.57.14:963][453]PIE: New page: PIE session: FirstPersonMap (8 Aug 2022, 12:57:14)
+[2022.08.08-10.57.15:001][453]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.57.15:006][453]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.08-10.57.15:006][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004561s)
+[2022.08.08-10.57.15:006][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004629s)
+[2022.08.08-10.57.15:006][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.08-10.57.15:006][453]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.08.08-10.57.15:007][453]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.08-10.57.15:007][453]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.08-10.57.15:008][453]LogWorldPartition: Display: WorldPartition initialize took 956 us
+[2022.08.08-10.57.15:008][453]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2022.08.08-10.57.15:040][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.08.08-10.57.15:048][453]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.08-10.57.15:048][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.08-10.57.15:048][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.08-10.57.15:049][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.08-10.57.15:049][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.08-10.57.15:049][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.08-10.57.15:050][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.08-10.57.15:065][453]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.08.08-10.57.15:065][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.08-10.57.15:065][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.08-10.57.15:065][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.08-10.57.15:065][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.08.08-10.57.15:065][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.08.08-10.57.15:066][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.08.08-10.57.15:066][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.08.08-10.57.15:066][453]LogInit: FAudioDevice initialized.
+[2022.08.08-10.57.15:066][453]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2022.08.08-10.57.15:078][453]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.08.08-10.57.15:089][453]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.08.08-11.57.15
+[2022.08.08-10.57.15:089][453]LogWorld: Bringing up level for play took: 0.011017
+[2022.08.08-10.57.15:090][453]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2022.08.08-10.57.15:091][453]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1730.000 Z=298.400
+[2022.08.08-10.57.15:091][453]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.08-10.57.15:092][453]PIE: Server logged in
+[2022.08.08-10.57.15:092][453]PIE: Play in editor total start time 0.131 seconds.
+[2022.08.08-10.57.36:872][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.57.36:872][ 53]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.08.08-10.57.36:872][ 53]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.08-10.57.36:873][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.57.36:886][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.08-10.57.36:890][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.08-10.57.36:921][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.08-10.57.36:922][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.08.08-10.57.36:923][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.08.08-10.57.36:925][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.08-10.57.36:928][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.08.08-10.57.37:103][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.08.08-10.57.37:126][ 54]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
